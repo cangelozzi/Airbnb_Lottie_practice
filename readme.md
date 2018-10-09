@@ -1,6 +1,6 @@
 # Lottie Airbnb practice
-http://airbnb.io/lottie/
-https://github.com/airbnb/lottie-web
+- http://airbnb.io/lottie/
+- https://github.com/airbnb/lottie-web
 
 - create Animation in Adobe After Effect
 - include AE extension 'bodymovin'
